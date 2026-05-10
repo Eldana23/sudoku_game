@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#07070f"/>
+  <!-- Sudoku grid — 3x3 with highlight on center -->
+  <rect x="10" y="10" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.3"/>
+  <rect x="25.5" y="10" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.5"/>
+  <rect x="41" y="10" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.3"/>
+  <rect x="10" y="25.5" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.5"/>
+  <rect x="25.5" y="25.5" width="13" height="13" rx="2" fill="#6d5dfc"/>
+  <rect x="41" y="25.5" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.5"/>
+  <rect x="10" y="41" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.3"/>
+  <rect x="25.5" y="41" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.5"/>
+  <rect x="41" y="41" width="13" height="13" rx="2" fill="#6d5dfc" opacity="0.3"/>
+  <!-- Center number -->
+  <text x="32" y="35" font-family="monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">9</text>
+</svg>

@@ -391,4 +391,10 @@ MIT. Do what you want with it.
 
 ---
 
+## Live Demo
+
+https://sudoku-game-zuud.vercel.app
+
+---
+
 Built with [Next.js](https://nextjs.org), [Supabase](https://supabase.com), [Tailwind CSS](https://tailwindcss.com).

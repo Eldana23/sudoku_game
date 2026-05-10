@@ -695,10 +695,10 @@ body {
 }
 
 /* Light theme: ensure dropdowns and menus look correct */
-[data-theme="light"] .diff-menu,
-[data-theme="light"] [style*="rgba(13, 13, 26, 0.98)"] {
+[data-theme="light"] .diff-menu {
   background: var(--bg-2) !important;
 }
+
 
 /* Light theme: hero section text overrides */
 [data-theme="light"] .hero-grid {
